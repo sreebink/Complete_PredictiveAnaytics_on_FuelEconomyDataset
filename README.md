@@ -8,6 +8,7 @@ Fuel Economy Dataset by fueleconomy.gov
 <br />
 Find the data [here](https://www.fueleconomy.gov/feg/download.shtml)
 <br /><br />
+
 ## Analysis
 Answered questions:
 <br />
@@ -19,6 +20,7 @@ Answered questions:
 <br />
 - What features are associated with better fuel economy (mpg)?
 <br /><br />
+
 ## Model
 Clustering:
 <br />
@@ -34,5 +36,6 @@ Regression:
 <br />
 Performed Regression to predict the combined mileage of a car
 <br /><br />
+
 ## Results
 
