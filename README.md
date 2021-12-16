@@ -13,11 +13,8 @@ Find the data [here](https://www.fueleconomy.gov/feg/download.shtml)
 Answered questions:
 <br />
 * Are more unique models using alternative fuels in 2018 compared to other years? By how much?
-<br />
 * How much have vehicle classes improved in fuel economy (increased in mpg) per year?
-<br />
 * What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas)
-<br />
 * What features are associated with better fuel economy (mpg)?
 <br /><br />
 
