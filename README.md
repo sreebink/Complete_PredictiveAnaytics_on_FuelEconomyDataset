@@ -35,4 +35,11 @@ Performed Regression to predict the combined mileage of a car
 <br /><br />
 
 ## Results
+Classification:
+<br />
+Maximum Accuracy of 99.3% - Random Forest Classification
+<br /><br />
+Regression:
+<br />
+Maximum Accuracy of 76.6% - Random Forest Regression
 
